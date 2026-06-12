@@ -1,4 +1,18 @@
+# Car Sales Portal
+
+Car Sales Portal is an ERPNext project for managing car sales, vehicle inventory, brands, warehouses, item groups, item variants, and item prices.
+
+Created:
+- Company: Car Sales Portal
+- Warehouse
+- Brand: Maruti Suzuki
+- Item Groups
+- Item Attributes
+- Item Templates
+- Item Variants
+- Item Price List
 ### Car Sales Portal
+
 
 Car Sales Portal is an ERPNext-based vehicle management system designed to manage car inventory, brands, variants, pricing, and warehouse operations. The system allows users to organize vehicle details, maintain stock records, manage different car variants based on color and vehicle type, and track selling prices efficiently. It helps streamline the vehicle sales process by providing centralized management of car-related information, ensuring accurate inventory control and pricing management.
 
