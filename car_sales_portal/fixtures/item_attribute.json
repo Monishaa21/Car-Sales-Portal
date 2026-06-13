@@ -1,0 +1,330 @@
+[
+ {
+  "attribute_name": "Size",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "XS",
+    "attribute_value": "Extra Small"
+   },
+   {
+    "abbr": "S",
+    "attribute_value": "Small"
+   },
+   {
+    "abbr": "M",
+    "attribute_value": "Medium"
+   },
+   {
+    "abbr": "L",
+    "attribute_value": "Large"
+   },
+   {
+    "abbr": "XL",
+    "attribute_value": "Extra Large"
+   }
+  ],
+  "modified": "2026-05-11 12:38:06.727194",
+  "name": "Size",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Colour",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "RED",
+    "attribute_value": "Red"
+   },
+   {
+    "abbr": "GRE",
+    "attribute_value": "Green"
+   },
+   {
+    "abbr": "BLU",
+    "attribute_value": "Blue"
+   },
+   {
+    "abbr": "BLA",
+    "attribute_value": "Black"
+   },
+   {
+    "abbr": "WHI",
+    "attribute_value": "White"
+   }
+  ],
+  "modified": "2026-05-11 12:38:06.754784",
+  "name": "Colour",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Vehicle Type",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "HB",
+    "attribute_value": "Hatchback"
+   },
+   {
+    "abbr": "SD",
+    "attribute_value": "Sedan"
+   },
+   {
+    "abbr": "SUV",
+    "attribute_value": "Sport Utility Vehicle"
+   },
+   {
+    "abbr": "MPV",
+    "attribute_value": "Multi-Purpose Vehicle"
+   },
+   {
+    "abbr": "CP",
+    "attribute_value": "Coupe"
+   },
+   {
+    "abbr": "CV",
+    "attribute_value": "Convertible"
+   },
+   {
+    "abbr": "PT",
+    "attribute_value": "Pickup Truck"
+   },
+   {
+    "abbr": "CUV",
+    "attribute_value": "Crossover"
+   }
+  ],
+  "modified": "2026-06-12 13:38:11.027119",
+  "name": "Vehicle Type",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Language",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "ENG",
+    "attribute_value": "English"
+   },
+   {
+    "abbr": "TAM",
+    "attribute_value": "Tamil"
+   },
+   {
+    "abbr": "HIN",
+    "attribute_value": "HIndi"
+   }
+  ],
+  "modified": "2026-06-05 13:45:44.858577",
+  "name": "Language",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Edition",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "E1",
+    "attribute_value": "1st Edition"
+   },
+   {
+    "abbr": "E2",
+    "attribute_value": "2nd Edition"
+   },
+   {
+    "abbr": "E3",
+    "attribute_value": "3nd Edition"
+   },
+   {
+    "abbr": "RE",
+    "attribute_value": "Revised Edition"
+   },
+   {
+    "abbr": "SE",
+    "attribute_value": "Special Edition"
+   }
+  ],
+  "modified": "2026-06-05 13:49:55.290396",
+  "name": "Edition",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Publisher",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "PER",
+    "attribute_value": "Pearson"
+   },
+   {
+    "abbr": "ORY",
+    "attribute_value": "O'Reilly"
+   },
+   {
+    "abbr": "MGH",
+    "attribute_value": "McGraw Hill"
+   },
+   {
+    "abbr": "WIL",
+    "attribute_value": "Wiley"
+   },
+   {
+    "abbr": "PKT",
+    "attribute_value": "Packt"
+   }
+  ],
+  "modified": "2026-06-05 13:51:21.921453",
+  "name": "Publisher",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Age Group",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "CHD",
+    "attribute_value": "Children"
+   },
+   {
+    "abbr": "TEE",
+    "attribute_value": "Teen"
+   },
+   {
+    "abbr": "ADT",
+    "attribute_value": "Adult"
+   },
+   {
+    "abbr": "SNR",
+    "attribute_value": "Senior"
+   }
+  ],
+  "modified": "2026-06-05 13:55:02.316090",
+  "name": "Age Group",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Vehicle Color",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "PAW",
+    "attribute_value": "Pearl Arctic White"
+   },
+   {
+    "abbr": "NB",
+    "attribute_value": "Nexa Blue"
+   },
+   {
+    "abbr": "DB",
+    "attribute_value": "Dignity Brown"
+   },
+   {
+    "abbr": "MB",
+    "attribute_value": "Midnight Black"
+   }
+  ],
+  "modified": "2026-06-12 13:31:48.055883",
+  "name": "Vehicle Color",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Format",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "HC",
+    "attribute_value": "Hardcover"
+   },
+   {
+    "abbr": "PB",
+    "attribute_value": "Paperback"
+   },
+   {
+    "abbr": "EB",
+    "attribute_value": "Ebook"
+   }
+  ],
+  "modified": "2026-06-05 13:47:33.328454",
+  "name": "Format",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Book Type",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "REF",
+    "attribute_value": "Reference"
+   },
+   {
+    "abbr": "TXT",
+    "attribute_value": "Textbook"
+   },
+   {
+    "abbr": "NOV",
+    "attribute_value": "Novel"
+   },
+   {
+    "abbr": "MAG",
+    "attribute_value": "Magazine"
+   },
+   {
+    "abbr": "JNL",
+    "attribute_value": "Journal"
+   }
+  ],
+  "modified": "2026-06-05 13:58:05.165378",
+  "name": "Book Type",
+  "numeric_values": 0,
+  "to_range": 0.0
+ }
+]

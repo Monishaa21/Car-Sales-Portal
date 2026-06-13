@@ -1,0 +1,32 @@
+[
+ {
+  "brand": "Maruti Suzuki",
+  "brand_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": "INR",
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
+  "description": "Maruti Suzuki is one of India's leading automobile manufacturers, offering a wide range of passenger vehicles including hatchbacks, sedans, SUVs, and commercial vehicles. The brand is known for reliability, fuel efficiency, affordability, and extensive service network across the country.",
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-12 13:21:41.989912",
+  "name": "Maruti Suzuki"
+ }
+]

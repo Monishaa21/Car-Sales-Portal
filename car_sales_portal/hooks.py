@@ -253,6 +253,32 @@ app_license = "mit"
 
 # Translation
 # ------------
-# List of apps whose translatable strings should be excluded from this app's translations.
-# ignore_translatable_strings_from = []
+# List of apps whose translatable strings should be excluded from this app's translatio ignore_translatable_strings_from = []
 
+fixtures = [
+    {
+        "dt": "Company",
+        "filters": [["name", "=", "Car Sales Portal"]]
+    },
+    {
+        "dt": "Warehouse"
+    },
+    {
+        "dt": "Brand"
+    },
+    {
+        "dt": "Item Group"
+    },
+    {
+        "dt": "Item Attribute"
+    },
+    {
+        "dt": "Item"
+    },
+    {
+        "dt": "Price List"
+    },
+    {
+        "dt": "Item Price"
+    }
+]
