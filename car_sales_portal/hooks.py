@@ -1,7 +1,7 @@
 app_name = "car_sales_portal"
 app_title = "Car Sales Portal"
-app_publisher = "Monisha S"
-app_description = "Car Sales Portal is an ERPNext-based vehicle management system designed to manage car inventory, brands, variants, pricing, and warehouse operations. The system allows users to organize vehicle details, maintain stock records, manage different car variants based on color and vehicle type, and track selling prices efficiently. It helps streamline the vehicle sales process by providing centralized management of car-related information, ensuring accurate inventory control and pricing management."
+app_publisher = "Monisha"
+app_description = "Car sales management project"
 app_email = "monishaa101@gmail.com"
 app_license = "mit"
 

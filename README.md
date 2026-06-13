@@ -1,20 +1,6 @@
-# Car Sales Portal
-
-Car Sales Portal is an ERPNext project for managing car sales, vehicle inventory, brands, warehouses, item groups, item variants, and item prices.
-
-Created:
-- Company: Car Sales Portal
-- Warehouse
-- Brand: Maruti Suzuki
-- Item Groups
-- Item Attributes
-- Item Templates
-- Item Variants
-- Item Price List
 ### Car Sales Portal
 
-
-Car Sales Portal is an ERPNext-based vehicle management system designed to manage car inventory, brands, variants, pricing, and warehouse operations. The system allows users to organize vehicle details, maintain stock records, manage different car variants based on color and vehicle type, and track selling prices efficiently. It helps streamline the vehicle sales process by providing centralized management of car-related information, ensuring accurate inventory control and pricing management.
+Car sales management project
 
 ### Installation
 
@@ -41,6 +27,13 @@ Pre-commit is configured to use the following tools for checking and formatting 
 - eslint
 - prettier
 - pyupgrade
+### CI
+
+This app can use GitHub Actions for CI. The following workflows are configured:
+
+- CI: Installs this app and runs unit tests on every push to `develop` branch.
+- Linters: Runs [Frappe Semgrep Rules](https://github.com/frappe/semgrep-rules) and [pip-audit](https://pypi.org/project/pip-audit/) on every pull request.
+
 
 ### License
 
