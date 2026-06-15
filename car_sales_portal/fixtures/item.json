@@ -78,8 +78,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -169,8 +169,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -260,8 +260,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -351,8 +351,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -442,8 +442,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -533,8 +533,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -624,8 +624,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -715,8 +715,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -806,8 +806,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -897,8 +897,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -1049,8 +1049,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -1201,8 +1201,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -1353,8 +1353,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -1505,8 +1505,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -1657,8 +1657,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -1809,8 +1809,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -1961,8 +1961,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -2113,8 +2113,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -2265,8 +2265,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -2417,8 +2417,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -2569,8 +2569,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -2721,8 +2721,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -2873,8 +2873,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -3025,8 +3025,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -3177,8 +3177,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -3329,8 +3329,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -3481,8 +3481,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -3633,8 +3633,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -3785,8 +3785,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -3937,8 +3937,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -4089,8 +4089,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -4241,8 +4241,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -4393,8 +4393,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -4545,8 +4545,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -4697,8 +4697,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -4849,8 +4849,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -5001,8 +5001,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -5153,8 +5153,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -5305,8 +5305,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -5457,8 +5457,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -5609,8 +5609,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -5761,8 +5761,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -5913,8 +5913,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -6065,8 +6065,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -6217,8 +6217,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -6369,8 +6369,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -6521,8 +6521,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -6673,8 +6673,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -6825,8 +6825,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -6977,8 +6977,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -7129,8 +7129,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -7281,8 +7281,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -7433,8 +7433,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -7585,8 +7585,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -7717,8 +7717,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -7849,8 +7849,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -7981,8 +7981,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -8113,8 +8113,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -8245,8 +8245,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -8377,8 +8377,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -8509,8 +8509,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -8641,8 +8641,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -8793,8 +8793,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -8945,8 +8945,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -9036,8 +9036,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -9127,8 +9127,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -9279,8 +9279,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -9411,8 +9411,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -9543,8 +9543,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -9695,8 +9695,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -9786,8 +9786,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -9877,8 +9877,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -9968,8 +9968,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
@@ -10120,8 +10120,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "conversion_factor": 1.0,
-    "uom": "Nos"
+    "uom": "Nos",
+    "conversion_factor": 1.0
    }
   ],
   "valuation_method": "",
