@@ -78,8 +78,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -169,8 +169,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -260,8 +260,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -351,8 +351,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -442,8 +442,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -533,8 +533,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -624,8 +624,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -715,8 +715,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -806,8 +806,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -897,8 +897,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -1049,8 +1049,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -1201,8 +1201,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -1353,8 +1353,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -1505,8 +1505,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -1657,8 +1657,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -1809,8 +1809,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -1961,8 +1961,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -2113,8 +2113,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -2265,8 +2265,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -2417,8 +2417,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -2569,8 +2569,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -2721,8 +2721,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -2873,8 +2873,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -3025,8 +3025,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -3177,8 +3177,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -3329,8 +3329,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -3454,7 +3454,7 @@
   "lead_time_days": 0,
   "max_discount": 0.0,
   "min_order_qty": 0.0,
-  "modified": "2026-06-13 11:58:24.642735",
+  "modified": "2026-06-15 13:42:03.103423",
   "name": "SCI004-ENG-TEE-TXT-E1-HC-PER",
   "naming_series": "STO-ITEM-.YYYY.-",
   "no_of_months": 0,
@@ -3481,8 +3481,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -3606,7 +3606,7 @@
   "lead_time_days": 0,
   "max_discount": 0.0,
   "min_order_qty": 0.0,
-  "modified": "2026-06-13 11:58:24.619109",
+  "modified": "2026-06-15 13:42:03.044089",
   "name": "SCI004-TAM-ADT-NOV-E1-PB-ORY",
   "naming_series": "STO-ITEM-.YYYY.-",
   "no_of_months": 0,
@@ -3633,8 +3633,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -3785,8 +3785,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -3937,8 +3937,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -4089,8 +4089,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -4241,8 +4241,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -4393,8 +4393,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -4545,8 +4545,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -4697,8 +4697,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -4849,8 +4849,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -5001,8 +5001,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -5153,8 +5153,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -5305,8 +5305,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -5457,8 +5457,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -5609,8 +5609,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -5761,8 +5761,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -5913,8 +5913,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -6065,8 +6065,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -6217,8 +6217,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -6369,8 +6369,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -6521,8 +6521,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -6673,8 +6673,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -6825,8 +6825,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -6977,8 +6977,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -7129,8 +7129,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -7281,8 +7281,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -7433,8 +7433,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -7585,8 +7585,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -7663,7 +7663,27 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP01",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "SWIFT",
   "item_name": "SWIFT",
   "last_purchase_rate": 0.0,
@@ -7697,8 +7717,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -7775,7 +7795,27 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP01-PAW-SD",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "SWIFT",
   "item_name": "SWIFT-PAW-SD",
   "last_purchase_rate": 0.0,
@@ -7809,8 +7849,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -7887,7 +7927,27 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP01-NB-HB",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "SWIFT",
   "item_name": "SWIFT-NB-HB",
   "last_purchase_rate": 0.0,
@@ -7921,8 +7981,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -7999,7 +8059,27 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP01-NB-SD",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "SWIFT",
   "item_name": "SWIFT-NB-SD",
   "last_purchase_rate": 0.0,
@@ -8033,8 +8113,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -8111,14 +8191,34 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP02-DB-SUV",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "ALTO",
   "item_name": "ALTO-DB-SUV",
   "last_purchase_rate": 0.0,
   "lead_time_days": 0,
   "max_discount": 0.0,
   "min_order_qty": 0.0,
-  "modified": "2026-06-13 11:58:24.869980",
+  "modified": "2026-06-15 13:42:03.608340",
   "name": "CSP02-DB-SUV",
   "naming_series": "STO-ITEM-.YYYY.-",
   "no_of_months": 0,
@@ -8145,8 +8245,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -8223,14 +8323,34 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP02-DB-MPV",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "ALTO",
   "item_name": "ALTO-DB-MPV",
   "last_purchase_rate": 0.0,
   "lead_time_days": 0,
   "max_discount": 0.0,
   "min_order_qty": 0.0,
-  "modified": "2026-06-13 11:58:24.849913",
+  "modified": "2026-06-15 13:42:03.555454",
   "name": "CSP02-DB-MPV",
   "naming_series": "STO-ITEM-.YYYY.-",
   "no_of_months": 0,
@@ -8257,8 +8377,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -8335,14 +8455,34 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP02-MB-SUV",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "ALTO",
   "item_name": "ALTO-MB-SUV",
   "last_purchase_rate": 0.0,
   "lead_time_days": 0,
   "max_discount": 0.0,
   "min_order_qty": 0.0,
-  "modified": "2026-06-13 11:58:24.829851",
+  "modified": "2026-06-15 13:42:03.497084",
   "name": "CSP02-MB-SUV",
   "naming_series": "STO-ITEM-.YYYY.-",
   "no_of_months": 0,
@@ -8369,8 +8509,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -8447,14 +8587,34 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP02-MB-MPV",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "ALTO",
   "item_name": "ALTO-MB-MPV",
   "last_purchase_rate": 0.0,
   "lead_time_days": 0,
   "max_discount": 0.0,
   "min_order_qty": 0.0,
-  "modified": "2026-06-13 11:58:24.805911",
+  "modified": "2026-06-15 13:42:03.439901",
   "name": "CSP02-MB-MPV",
   "naming_series": "STO-ITEM-.YYYY.-",
   "no_of_months": 0,
@@ -8481,8 +8641,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -8633,8 +8793,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -8785,8 +8945,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -8876,8 +9036,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -8967,8 +9127,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -9119,8 +9279,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -9197,7 +9357,27 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP01-PAW-HB",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "SWIFT",
   "item_name": "SWIFT-PAW-HB",
   "last_purchase_rate": 0.0,
@@ -9231,8 +9411,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -9309,7 +9489,27 @@
   "is_stock_item": 1,
   "is_sub_contracted_item": 0,
   "item_code": "CSP02",
-  "item_defaults": [],
+  "item_defaults": [
+   {
+    "buying_cost_center": null,
+    "company": "Maruthi Suzuki",
+    "default_cogs_account": null,
+    "default_discount_account": null,
+    "default_inventory_account": null,
+    "default_price_list": "Standard Selling",
+    "default_provisional_account": null,
+    "default_supplier": null,
+    "default_warehouse": "Main Warehouse - CSP - MS",
+    "deferred_expense_account": null,
+    "deferred_revenue_account": null,
+    "expense_account": null,
+    "income_account": null,
+    "inventory_account_currency": null,
+    "purchase_expense_account": null,
+    "purchase_expense_contra_account": null,
+    "selling_cost_center": null
+   }
+  ],
   "item_group": "ALTO",
   "item_name": "ALTO",
   "last_purchase_rate": 0.0,
@@ -9343,8 +9543,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -9495,8 +9695,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -9586,8 +9786,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -9677,8 +9877,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -9768,8 +9968,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",
@@ -9920,8 +10120,8 @@
   "total_projected_qty": 0.0,
   "uoms": [
    {
-    "uom": "Nos",
-    "conversion_factor": 1.0
+    "conversion_factor": 1.0,
+    "uom": "Nos"
    }
   ],
   "valuation_method": "",

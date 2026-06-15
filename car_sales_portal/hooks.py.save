@@ -255,8 +255,3 @@ app_license = "mit"
 # ------------
 # List of apps whose translatable strings should be excluded from this app's translatio ignore_translatable_strings_from = []
 
-fixtures = [
-    {"dt": "Company", "filters": [["name", "=", "Car Sales Portal"]]},
-    {"dt": "Warehouse", "filters": [["company", "=", "Car Sales Portal"]]},
-    {"dt": "Brand", "filters": [["name", "=", "Maruti Suzuki"]]},
-]
