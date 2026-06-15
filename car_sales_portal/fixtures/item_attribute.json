@@ -1,5 +1,97 @@
 [
  {
+  "attribute_name": "Volume",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "200MLK",
+    "attribute_value": "200 ml"
+   },
+   {
+    "abbr": "250ML",
+    "attribute_value": "250 ml"
+   },
+   {
+    "abbr": "300ML",
+    "attribute_value": "300 ml"
+   },
+   {
+    "abbr": "500ML",
+    "attribute_value": "500 ml"
+   },
+   {
+    "abbr": "600ML",
+    "attribute_value": "600 ml"
+   },
+   {
+    "abbr": "675ML",
+    "attribute_value": "675 ml"
+   },
+   {
+    "abbr": "700ML",
+    "attribute_value": "700 ml"
+   },
+   {
+    "abbr": "750ML",
+    "attribute_value": "750 ml"
+   },
+   {
+    "abbr": "1L",
+    "attribute_value": "1 L"
+   },
+   {
+    "abbr": "1.2L",
+    "attribute_value": "1.2 L"
+   },
+   {
+    "abbr": "1.75L",
+    "attribute_value": "1.75 L"
+   },
+   {
+    "abbr": "2L",
+    "attribute_value": "2 L"
+   }
+  ],
+  "modified": "2026-06-07 00:03:57.349857",
+  "name": "Volume",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Pack Size",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "S",
+    "attribute_value": "SMALL"
+   },
+   {
+    "abbr": "M",
+    "attribute_value": "MEDIUM"
+   },
+   {
+    "abbr": "L",
+    "attribute_value": "LARGE"
+   },
+   {
+    "abbr": "FP",
+    "attribute_value": "FAMILY PACK"
+   }
+  ],
+  "modified": "2026-06-07 00:33:00.879589",
+  "name": "Pack Size",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
   "attribute_name": "Size",
   "disabled": 0,
   "docstatus": 0,
@@ -324,6 +416,174 @@
   ],
   "modified": "2026-06-05 13:58:05.165378",
   "name": "Book Type",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Page",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "80P",
+    "attribute_value": "80 Pages"
+   },
+   {
+    "abbr": "100P",
+    "attribute_value": "100 Pages"
+   },
+   {
+    "abbr": "120P",
+    "attribute_value": "120 Pages"
+   },
+   {
+    "abbr": "160P",
+    "attribute_value": "160 Pages"
+   },
+   {
+    "abbr": "200P",
+    "attribute_value": "200 Pages"
+   },
+   {
+    "abbr": "300P",
+    "attribute_value": "300 Pages"
+   }
+  ],
+  "modified": "2026-06-07 00:27:43.881965",
+  "name": "Page",
+  "numeric_values": 0,
+  "to_range": 0.0
+ },
+ {
+  "attribute_name": "Weight",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Item Attribute",
+  "from_range": 0.0,
+  "increment": 0.0,
+  "item_attribute_values": [
+   {
+    "abbr": "17G",
+    "attribute_value": "17 g"
+   },
+   {
+    "abbr": "20G",
+    "attribute_value": "2O g"
+   },
+   {
+    "abbr": "25G",
+    "attribute_value": "25 g"
+   },
+   {
+    "abbr": "30G",
+    "attribute_value": "30 g"
+   },
+   {
+    "abbr": "36G",
+    "attribute_value": "35 g"
+   },
+   {
+    "abbr": "40G",
+    "attribute_value": "40 g"
+   },
+   {
+    "abbr": "45G",
+    "attribute_value": "45 g"
+   },
+   {
+    "abbr": "50G",
+    "attribute_value": "50 g"
+   },
+   {
+    "abbr": "60G",
+    "attribute_value": "60 g"
+   },
+   {
+    "abbr": "75G",
+    "attribute_value": "75 g"
+   },
+   {
+    "abbr": "80G",
+    "attribute_value": "80 g"
+   },
+   {
+    "abbr": "100G",
+    "attribute_value": "100 g"
+   },
+   {
+    "abbr": "120G",
+    "attribute_value": "120 g"
+   },
+   {
+    "abbr": "125G",
+    "attribute_value": "125 g"
+   },
+   {
+    "abbr": "142G",
+    "attribute_value": "142 g"
+   },
+   {
+    "abbr": "150G",
+    "attribute_value": "150 g"
+   },
+   {
+    "abbr": "200G",
+    "attribute_value": "200 g"
+   },
+   {
+    "abbr": "250G",
+    "attribute_value": "250 g"
+   },
+   {
+    "abbr": "300G",
+    "attribute_value": "300 g"
+   },
+   {
+    "abbr": "350G",
+    "attribute_value": "350 g"
+   },
+   {
+    "abbr": "400G",
+    "attribute_value": "400 g"
+   },
+   {
+    "abbr": "450G",
+    "attribute_value": "450 g"
+   },
+   {
+    "abbr": "500G",
+    "attribute_value": "500 g"
+   },
+   {
+    "abbr": "800G",
+    "attribute_value": "800 g"
+   },
+   {
+    "abbr": "1KG",
+    "attribute_value": "1 Kg"
+   },
+   {
+    "abbr": "2KG",
+    "attribute_value": "2 Kg"
+   },
+   {
+    "abbr": "5KG",
+    "attribute_value": "5 Kg"
+   },
+   {
+    "abbr": "10KG",
+    "attribute_value": "10 Kg"
+   },
+   {
+    "abbr": "25KG",
+    "attribute_value": "25 Kg"
+   }
+  ],
+  "modified": "2026-06-07 00:24:33.130106",
+  "name": "Weight",
   "numeric_values": 0,
   "to_range": 0.0
  }

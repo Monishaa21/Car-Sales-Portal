@@ -261,7 +261,7 @@ fixtures = [
     "Brand",
     "Item Group",
     "Item Attribute",
-    "Price List",
+    "Price List","Stock Reconciliation",
     "Role",
     "Custom DocPerm"
 ]

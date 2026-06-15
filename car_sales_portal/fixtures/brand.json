@@ -1,5 +1,985 @@
 [
  {
+  "brand": "Daawat",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:42:04.834365",
+  "name": "Daawat"
+ },
+ {
+  "brand": "Ponni",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:42:17.329368",
+  "name": "Ponni"
+ },
+ {
+  "brand": "Lal Qilla",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:43:04.586017",
+  "name": "Lal Qilla"
+ },
+ {
+  "brand": "Tata Sampann",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:44:04.856083",
+  "name": "Tata Sampann"
+ },
+ {
+  "brand": "24 Mantra",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:44:24.601562",
+  "name": "24 Mantra"
+ },
+ {
+  "brand": "Daily Good",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:44:36.500715",
+  "name": "Daily Good"
+ },
+ {
+  "brand": "Fortune",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:45:14.963469",
+  "name": "Fortune"
+ },
+ {
+  "brand": "Mr Gold",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:46:07.228663",
+  "name": "Mr Gold"
+ },
+ {
+  "brand": "Sunland",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:46:24.175834",
+  "name": "Sunland"
+ },
+ {
+  "brand": "Sundrop",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:46:31.850336",
+  "name": "Sundrop"
+ },
+ {
+  "brand": "Saffola",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:46:49.259361",
+  "name": "Saffola"
+ },
+ {
+  "brand": "Gold Winner",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:47:06.124063",
+  "name": "Gold Winner"
+ },
+ {
+  "brand": "Aachi",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:50:25.422234",
+  "name": "Aachi"
+ },
+ {
+  "brand": "Sakthi",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:50:32.836477",
+  "name": "Sakthi"
+ },
+ {
+  "brand": "MTR",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:50:46.625697",
+  "name": "MTR"
+ },
+ {
+  "brand": "Pillsbury",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:51:43.874358",
+  "name": "Pillsbury"
+ },
+ {
+  "brand": "Annapurna",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:51:54.352803",
+  "name": "Annapurna"
+ },
+ {
+  "brand": "Tata Salt",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:52:07.467175",
+  "name": "Tata Salt"
+ },
+ {
+  "brand": "Aashirvaad Salt",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:52:19.775040",
+  "name": "Aashirvaad Salt"
+ },
+ {
+  "brand": "Everest",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:52:33.189815",
+  "name": "Everest"
+ },
+ {
+  "brand": "L.G",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:53:56.247842",
+  "name": "L.G"
+ },
+ {
+  "brand": "7 UP",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:55:44.565068",
+  "name": "7 UP"
+ },
+ {
+  "brand": "Amul",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:55:52.585927",
+  "name": "Amul"
+ },
+ {
+  "brand": "Bovonto",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:56:13.764958",
+  "name": "Bovonto"
+ },
+ {
+  "brand": "Mazza",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:56:27.912916",
+  "name": "Mazza"
+ },
+ {
+  "brand": "Cavins",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:56:43.616242",
+  "name": "Cavins"
+ },
+ {
+  "brand": "Pepsi",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:57:23.800112",
+  "name": "Pepsi"
+ },
+ {
+  "brand": "Red Bull",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:57:34.709440",
+  "name": "Red Bull"
+ },
+ {
+  "brand": "Aavin",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:58:07.166496",
+  "name": "Aavin"
+ },
+ {
+  "brand": "Milky Mist",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:58:15.533605",
+  "name": "Milky Mist"
+ },
+ {
+  "brand": "Heritage",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:58:24.646111",
+  "name": "Heritage"
+ },
+ {
+  "brand": "Hatsun",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:58:33.606694",
+  "name": "Hatsun"
+ },
+ {
+  "brand": "Arokya",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:59:08.148320",
+  "name": "Arokya"
+ },
+ {
+  "brand": "Nestle",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:59:20.790137",
+  "name": "Nestle"
+ },
+ {
+  "brand": "Arun",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:00:11.984818",
+  "name": "Arun"
+ },
+ {
+  "brand": "A2B",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:00:50.897144",
+  "name": "A2B"
+ },
+ {
+  "brand": "Bingo",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:01:03.214977",
+  "name": "Bingo"
+ },
+ {
+  "brand": "Cheetos",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:01:32.045336",
+  "name": "Cheetos"
+ },
+ {
+  "brand": "Crax",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:01:39.928616",
+  "name": "Crax"
+ },
+ {
+  "brand": "Kurkure",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:01:52.428419",
+  "name": "Kurkure"
+ },
+ {
+  "brand": "Town Bus",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:02:11.569597",
+  "name": "Town Bus"
+ },
+ {
+  "brand": "Sweet Karam Coffee",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:02:25.828271",
+  "name": "Sweet Karam Coffee"
+ },
+ {
+  "brand": "Too Yumm!",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:02:48.838183",
+  "name": "Too Yumm!"
+ },
+ {
+  "brand": "Pringles",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:03:05.414662",
+  "name": "Pringles"
+ },
+ {
+  "brand": "Beyond Snack",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:03:27.425699",
+  "name": "Beyond Snack"
+ },
+ {
+  "brand": "Parle",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:05:11.933087",
+  "name": "Parle"
+ },
+ {
+  "brand": "Good Day",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:05:30.871620",
+  "name": "Good Day"
+ },
+ {
+  "brand": "Cadbury",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:06:22.362940",
+  "name": "Cadbury"
+ },
+ {
+  "brand": "Oreo",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:06:28.785201",
+  "name": "Oreo"
+ },
+ {
+  "brand": "Malkist",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:06:44.615343",
+  "name": "Malkist"
+ },
+ {
+  "brand": "Haldirams",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:07:00.759144",
+  "name": "Haldirams"
+ },
+ {
+  "brand": "Sun Feast",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:07:18.178370",
+  "name": "Sun Feast"
+ },
+ {
+  "brand": "Unibic",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:08:10.209647",
+  "name": "Unibic"
+ },
+ {
+  "brand": "Super",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:09:20.754363",
+  "name": "Super"
+ },
+ {
+  "brand": "Modern",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:09:26.018044",
+  "name": "Modern"
+ },
+ {
+  "brand": "Udhaiyam Batter",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:09:45.207968",
+  "name": "Udhaiyam Batter"
+ },
+ {
+  "brand": "Medimix",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:10:16.972402",
+  "name": "Medimix"
+ },
+ {
+  "brand": "Cinthol",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:10:25.666149",
+  "name": "Cinthol"
+ },
+ {
+  "brand": "Dettol",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:10:50.174248",
+  "name": "Dettol"
+ },
+ {
+  "brand": "Fiama",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:10:58.620101",
+  "name": "Fiama"
+ },
+ {
+  "brand": "Ponds",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:11:38.902063",
+  "name": "Ponds"
+ },
+ {
+  "brand": "Yardley London",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:11:53.662640",
+  "name": "Yardley London"
+ },
+ {
+  "brand": "Nycil",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:12:12.204627",
+  "name": "Nycil"
+ },
+ {
+  "brand": "Dermicool",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:12:26.828180",
+  "name": "Dermicool"
+ },
+ {
+  "brand": "Parachute",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:13:12.978126",
+  "name": "Parachute"
+ },
+ {
+  "brand": "Indulekha",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:13:24.169598",
+  "name": "Indulekha"
+ },
+ {
+  "brand": "Navratna",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:14:06.828068",
+  "name": "Navratna"
+ },
+ {
+  "brand": "Galaxy",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:14:47.409530",
+  "name": "Galaxy"
+ },
+ {
+  "brand": "Hersheys",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:14:59.513107",
+  "name": "Hersheys"
+ },
+ {
+  "brand": "Milky Bar",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:15:32.729648",
+  "name": "Milky Bar"
+ },
+ {
+  "brand": "Cadbury 5 Star",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:19:27.112733",
+  "name": "Cadbury 5 Star"
+ },
+ {
+  "brand": "Snickers",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:20:08.892954",
+  "name": "Snickers"
+ },
+ {
+  "brand": "Nestle Munch",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:20:49.695664",
+  "name": "Nestle Munch"
+ },
+ {
+  "brand": "Kinder Joy",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:21:29.599798",
+  "name": "Kinder Joy"
+ },
+ {
+  "brand": "Rin",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:21:41.072918",
+  "name": "Rin"
+ },
+ {
+  "brand": "Ariel",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:22:06.745534",
+  "name": "Ariel"
+ },
+ {
+  "brand": "Comfort",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:22:15.263233",
+  "name": "Comfort"
+ },
+ {
+  "brand": "Soft Touch",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:22:26.713824",
+  "name": "Soft Touch"
+ },
+ {
+  "brand": "Vim",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:23:08.744465",
+  "name": "Vim"
+ },
+ {
+  "brand": "Good Night",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:23:26.762932",
+  "name": "Good Night"
+ },
+ {
+  "brand": "Hit",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:23:34.457325",
+  "name": "Hit"
+ },
+ {
+  "brand": "Head and Shoulders",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:24:26.059383",
+  "name": "Head and Shoulders"
+ },
+ {
+  "brand": "Chik",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:24:46.217098",
+  "name": "Chik"
+ },
+ {
+  "brand": "Himalaya",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:25:07.124940",
+  "name": "Himalaya"
+ },
+ {
+  "brand": "Mamaearth",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:25:26.005538",
+  "name": "Mamaearth"
+ },
+ {
+  "brand": "Pantene",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:25:39.514499",
+  "name": "Pantene"
+ },
+ {
+  "brand": "Biotique",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:25:56.713093",
+  "name": "Biotique"
+ },
+ {
+  "brand": "Apsara",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:26:28.245994",
+  "name": "Apsara"
+ },
+ {
+  "brand": "Doms",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:26:35.551660",
+  "name": "Doms"
+ },
+ {
+  "brand": "Camel",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:26:41.479126",
+  "name": "Camel"
+ },
+ {
+  "brand": "Natraj",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:26:51.095619",
+  "name": "Natraj"
+ },
+ {
+  "brand": "Pilot",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:27:05.329299",
+  "name": "Pilot"
+ },
+ {
+  "brand": "Trimax",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:27:11.725160",
+  "name": "Trimax"
+ },
+ {
+  "brand": "Exo",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:27:54.592515",
+  "name": "Exo"
+ },
+ {
+  "brand": "GRB",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:27:59.722055",
+  "name": "GRB"
+ },
+ {
+  "brand": "GRB Sweets",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:29:16.486308",
+  "name": "GRB Sweets"
+ },
+ {
+  "brand": "Anand Sweet",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:29:40.164232",
+  "name": "Anand Sweet"
+ },
+ {
+  "brand": "Camlin",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-07 00:28:56.213055",
+  "name": "Camlin"
+ },
+ {
   "brand": "Maruti Suzuki",
   "brand_defaults": [
    {
@@ -28,5 +1008,145 @@
   "image": null,
   "modified": "2026-06-12 13:21:41.989912",
   "name": "Maruti Suzuki"
+ },
+ {
+  "brand": "India Gate",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:41:47.389426",
+  "name": "India Gate"
+ },
+ {
+  "brand": "Coca Cola",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:56:53.689883",
+  "name": "Coca Cola"
+ },
+ {
+  "brand": "Dove",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:10:08.763098",
+  "name": "Dove"
+ },
+ {
+  "brand": "Lux",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:11:09.722899",
+  "name": "Lux"
+ },
+ {
+  "brand": "Nestle Kit Kat",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:15:17.176992",
+  "name": "Nestle Kit Kat"
+ },
+ {
+  "brand": "Cadbury Dairy Milk",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:19:41.332016",
+  "name": "Cadbury Dairy Milk"
+ },
+ {
+  "brand": "Surf Execl",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:21:50.851048",
+  "name": "Surf Execl"
+ },
+ {
+  "brand": "Classmate",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-07 00:28:33.243101",
+  "name": "Classmate"
+ },
+ {
+  "brand": "Pears",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-08 12:18:58.943741",
+  "name": "Pears"
+ },
+ {
+  "brand": "Parry 's",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:48:14.342806",
+  "name": "Parry 's"
+ },
+ {
+  "brand": "Udhaiyam",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:08:35.600943",
+  "name": "Udhaiyam"
+ },
+ {
+  "brand": "Lays",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-08 11:53:58.047157",
+  "name": "Lays"
+ },
+ {
+  "brand": "Britannia",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 16:06:03.446090",
+  "name": "Britannia"
+ },
+ {
+  "brand": "Aashirvaad",
+  "brand_defaults": [],
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Brand",
+  "image": null,
+  "modified": "2026-06-06 15:44:55.238775",
+  "name": "Aashirvaad"
  }
 ]
