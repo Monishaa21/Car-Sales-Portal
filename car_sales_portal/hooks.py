@@ -256,29 +256,12 @@ app_license = "mit"
 # List of apps whose translatable strings should be excluded from this app's translatio ignore_translatable_strings_from = []
 
 fixtures = [
-    {
-        "dt": "Company",
-        "filters": [["name", "=", "Car Sales Portal"]]
-    },
-    {
-        "dt": "Warehouse"
-    },
-    {
-        "dt": "Brand"
-    },
-    {
-        "dt": "Item Group"
-    },
-    {
-        "dt": "Item Attribute"
-    },
-    {
-        "dt": "Item"
-    },
-    {
-        "dt": "Price List"
-    },
-    {
-        "dt": "Item Price"
-    }
+    "Company",
+    "Warehouse",
+    "Brand",
+    "Item Group",
+    "Item Attribute",
+    "Price List",
+    "Role",
+    "Custom DocPerm"
 ]
