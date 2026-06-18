@@ -53,3 +53,9 @@ jspm_packages/
 
 # Aider AI Chat
 .aider*
+
+*.sql.gz
+*.tgz
+*.tar
+car_sales_portal/public/database/
+database_backup/
